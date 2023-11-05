@@ -1,0 +1,11 @@
+this library contains interface to work with matricies, but only (NxN) matricies.
+elements of the matrix could be integer or double type.
+you could also enter the range of the elements.
+functions in header "matrix.h" allow you to: 
+- generate a random matrix with definite values range, 
+- print matrix
+- multiply one matrix whith another
+there are two type of multiplication:
+a) advanced in a single thread
+b) multithreaded with the definite count of threads
+ 
