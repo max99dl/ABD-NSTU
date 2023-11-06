@@ -1,0 +1,4 @@
+this is a very simple sample of TCP/IP client-server application program
+client creates on the same localhost machine as server exist
+How to use:
+in the build directory enter: cmake ..; cmake --build .;

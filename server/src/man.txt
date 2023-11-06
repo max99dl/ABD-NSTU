@@ -1,0 +1,22 @@
+descriptor = socket(domain, type, protocol) - create a socket
+//where-> domain: AF_INET(for IPv4), AF_INET6(for IPv6)
+//type: SOCK_STREAM(for TCP), SOCK_DGRAM(for UDP)
+//protocol: usually set to 0 to automatically select the approrpiate protocol based on the choosen type
+
+bind() - allows the socket to receive imcoming data directed to that IP and port
+listen() - use by server applications, the socket listening for incoming connections from client
+accept() - when a client attempts to connect, the server accept the connection
+
+connect() - use by client applications for socket trying to connect to a server, specifying the servers's IP and port
+
+
+after establishing the connection data can be sent and received by functions:
+send() - send data
+recv() - receive data
+or:
+write()
+read()
+
+
+after the communication is finished? the socket must be closed by function:
+close() - close the socket
