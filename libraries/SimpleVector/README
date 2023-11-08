@@ -1,0 +1,4 @@
+add class SimpleVector the analog of std::vector but more simple
+There are only header file because class uses templates
+you could remove implementation in other source file, but you sholud specify all possible types, 
+or there will be an ld(link) error
