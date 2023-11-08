@@ -1,0 +1,4 @@
+this header "Sockets.hpp" is used when you work with sockets(in C style) all the main functions are wrapped in handy classes.
+Simple::Socket is the main abstarct class
+
+how to use it: create a directory(build). In build directory enter the commnads: cmake ..; cmake --build .
