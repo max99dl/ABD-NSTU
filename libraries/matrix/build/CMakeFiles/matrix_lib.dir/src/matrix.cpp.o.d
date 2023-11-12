@@ -1,7 +1,7 @@
-src/CMakeFiles/main.dir/main.cpp.o: \
- /home/maxim/git/ABD-NSTU/libraries/matrix/src/main.cpp \
+CMakeFiles/matrix_lib.dir/src/matrix.cpp.o: \
+ /home/maxim/git/ABD-NSTU/libraries/matrix/src/matrix.cpp \
  /usr/include/stdc-predef.h \
- /home/maxim/git/ABD-NSTU/libraries/matrix/src/../lib/matrix.h \
+ /home/maxim/git/ABD-NSTU/libraries/matrix/src/matrix.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

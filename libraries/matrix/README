@@ -8,4 +8,19 @@ functions in header "matrix.h" allow you to:
 there are two type of multiplication:
 a) advanced in a single thread
 b) multithreaded with the definite count of threads
- 
+
+
+How to use it:
+1) create a directory(build)
+2) in the directory(build) enter: cmake .. 'desired_path'=install (you could also use a cmake variable -DCMAKE_INSTALL_PREFIX=install)
+3) then the command: cmake --build ..
+4) finaly, enter the command: cmake --build . --target install
+
+After all this steps there are directory install with subdirectories: include and lib 
+
+
+
+template: cmake .. -D<library_name>_DIR=path_to_config_file.config
+for use from other cpp files, need to clarify path to library config:
+cmake .. -Dmatrix_lib_DIR=path_to_config_file.config
+after that, cmake .. --build .

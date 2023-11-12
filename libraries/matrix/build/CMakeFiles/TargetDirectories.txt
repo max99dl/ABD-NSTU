@@ -1,8 +1,7 @@
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/CMakeFiles/matrix_lib.dir
 /home/maxim/git/ABD-NSTU/libraries/matrix/build/CMakeFiles/edit_cache.dir
 /home/maxim/git/ABD-NSTU/libraries/matrix/build/CMakeFiles/rebuild_cache.dir
-/home/maxim/git/ABD-NSTU/libraries/matrix/build/lib/CMakeFiles/matrix_lib.dir
-/home/maxim/git/ABD-NSTU/libraries/matrix/build/lib/CMakeFiles/edit_cache.dir
-/home/maxim/git/ABD-NSTU/libraries/matrix/build/lib/CMakeFiles/rebuild_cache.dir
-/home/maxim/git/ABD-NSTU/libraries/matrix/build/src/CMakeFiles/main.dir
-/home/maxim/git/ABD-NSTU/libraries/matrix/build/src/CMakeFiles/edit_cache.dir
-/home/maxim/git/ABD-NSTU/libraries/matrix/build/src/CMakeFiles/rebuild_cache.dir
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/CMakeFiles/list_install_components.dir
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/CMakeFiles/install.dir
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/CMakeFiles/install/local.dir
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/CMakeFiles/install/strip.dir

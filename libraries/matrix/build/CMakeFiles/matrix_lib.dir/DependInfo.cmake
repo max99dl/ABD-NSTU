@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/maxim/git/ABD-NSTU/libraries/matrix/lib/matrix.cpp" "lib/CMakeFiles/matrix_lib.dir/matrix.cpp.o" "gcc" "lib/CMakeFiles/matrix_lib.dir/matrix.cpp.o.d"
+  "/home/maxim/git/ABD-NSTU/libraries/matrix/src/matrix.cpp" "CMakeFiles/matrix_lib.dir/src/matrix.cpp.o" "gcc" "CMakeFiles/matrix_lib.dir/src/matrix.cpp.o.d"
   )
 
 # Targets to which this target links.

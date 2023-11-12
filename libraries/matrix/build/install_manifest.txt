@@ -1,0 +1,4 @@
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/install/lib/libmatrix_lib.a
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/install/include/matrix.h
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/install/lib/cmake/matrix_libConfig.cmake
+/home/maxim/git/ABD-NSTU/libraries/matrix/build/install/lib/cmake/matrix_libConfig-noconfig.cmake
